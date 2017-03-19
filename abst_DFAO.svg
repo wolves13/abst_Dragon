@@ -675,7 +675,9 @@
        inkscape:tile-y0="193.1626" />
     <g
        id="g4608"
-       transform="matrix(0.8660254,0.5,-0.5,0.8660254,260.91434,-163.90823)">
+       transform="matrix(0.8660254,0.5,-0.5,0.8660254,260.91434,-163.90823)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          inkscape:connector-curvature="0"
          id="use7045"
@@ -1087,7 +1089,9 @@
          id="tspan7345">Corner</tspan></text>
     <g
        id="g4595"
-       transform="matrix(0.8660254,0.5,-0.5,0.8660254,188.19929,-198.96208)">
+       transform="matrix(0.8660254,0.5,-0.5,0.8660254,188.19929,-198.96208)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 879.77209,159.24903 15.34293,8.85828 -0.20458,17.83466 15.57053,-8.50002 15.11541,8.50002 -30.48136,17.5984 -0.43361,17.9669 15.77659,8.60792 46.0289,-26.57481 10e-6,-70.86614 -15.34296,-8.56069 z"
@@ -1206,7 +1210,9 @@
        inkscape:tile-y0="304.90509" />
     <g
        id="g4600"
-       transform="matrix(0.8660254,0.5,-0.5,0.8660254,259.18229,-164.90823)">
+       transform="matrix(0.8660254,0.5,-0.5,0.8660254,259.18229,-164.90823)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          inkscape:connector-curvature="0"
          id="use7039"
@@ -1470,12 +1476,16 @@
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 746.1068,408.77523 8.77952,-15.34297 -8.85827,-15.34298 18.11024,0.68192 8.46457,14.66105 -8.85827,15.34298 z"
        id="path4613"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 755.12256,454.39501 -9.09448,-14.93383 8.85827,-15.34297 -17.71654,0 -8.85827,15.34297 8.85827,15.34297 z"
        id="path4615"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
