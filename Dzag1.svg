@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.605985"
-     inkscape:cx="302.43413"
-     inkscape:cy="666.0746"
+     inkscape:zoom="3.21197"
+     inkscape:cx="340.01502"
+     inkscape:cy="700.19818"
      inkscape:document-units="px"
      inkscape:current-layer="g4163"
      showgrid="true"
@@ -3482,15 +3482,16 @@
          inkscape:connector-curvature="0" />
       <text
          transform="scale(1,-1)"
-         style="font-variant:normal;font-weight:normal;font-size:9.325037px;font-family:CMR12;-inkscape-font-specification:CMR12;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:1;"
+         style="font-variant:normal;font-weight:normal;font-size:9.325037px;font-family:CMR12;-inkscape-font-specification:CMR12;writing-mode:lr-tb;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text4907"
          x="142.17212"
          y="-512.06866">
         <tspan
-           x="142.17212 146.73767"
+           x="142.17212"
            y="-512.06866"
            sodipodi:role="line"
-           id="tspan4909">40</tspan>
+           id="tspan4909"
+           style="-inkscape-font-specification:sans-serif;font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">405</tspan>
       </text>
       <path
          d="m 162.02475,515.07333 c 0,0.60699 -0.49206,1.09905 -1.09905,1.09905 -0.60699,0 -1.09906,-0.49206 -1.09906,-1.09905 0,-0.60697 0.49207,-1.09905 1.09906,-1.09905 0.60699,0 1.09905,0.49208 1.09905,1.09905 z"
@@ -3533,13 +3534,13 @@
          inkscape:connector-curvature="0" />
       <text
          transform="scale(1,-1)"
-         style="font-variant:normal;font-weight:normal;font-size:9.325037px;font-family:CMR12;-inkscape-font-specification:CMR12;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:1;"
+         style="font-variant:normal;font-weight:normal;font-size:9.325037px;font-family:CMR12;-inkscape-font-specification:CMR12;writing-mode:lr-tb;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text4937"
-         x="208.19591"
-         y="-512.06866">
+         x="206.5959"
+         y="-516.86859">
         <tspan
-           x="208.19591 212.76141 217.32697"
-           y="-512.06866"
+           x="206.5959 211.16141 215.72696"
+           y="-516.86859"
            sodipodi:role="line"
            id="tspan4939">418</tspan>
       </text>
@@ -3550,13 +3551,13 @@
          inkscape:connector-curvature="0" />
       <text
          transform="scale(1,-1)"
-         style="font-variant:normal;font-weight:normal;font-size:9.325037px;font-family:CMR12;-inkscape-font-specification:CMR12;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:1;"
+         style="font-variant:normal;font-weight:normal;font-size:9.325037px;font-family:CMR12;-inkscape-font-specification:CMR12;writing-mode:lr-tb;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text4947"
-         x="230.30577"
-         y="-512.06866">
+         x="228.70576"
+         y="-516.86859">
         <tspan
-           x="230.30577 234.87129 239.43684"
-           y="-512.06866"
+           x="228.70576 233.27129 237.83684"
+           y="-516.86859"
            sodipodi:role="line"
            id="tspan4949">417</tspan>
       </text>
@@ -3809,16 +3810,16 @@
            d="m 149.46713,597.19689 c 0,0.50583 -0.41005,0.91588 -0.91588,0.91588 -0.50582,0 -0.91588,-0.41005 -0.91588,-0.91588 0,-0.50582 0.41006,-0.91587 0.91588,-0.91587 0.50583,0 0.91588,0.41005 0.91588,0.91587 z"
            transform="matrix(1.2,0,0,1.2,-60.375436,-109.74928)" />
         <text
-           y="-594.69305"
-           x="151.09186"
+           y="-608.68231"
+           x="117.73479"
            id="text4545"
-           style="font-variant:normal;font-weight:normal;font-size:7.77087307px;font-family:CMR12;-inkscape-font-specification:CMR12;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1.2,0,0,-1.2,-60.375436,-109.74928)">
+           style="font-variant:normal;font-weight:normal;font-size:9.32504749px;font-family:CMR12;-inkscape-font-specification:CMR12;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="scale(1,-1)">
           <tspan
              id="tspan4547"
              sodipodi:role="line"
-             y="-594.69305"
-             x="151.09186 154.89648 158.70111">406</tspan>
+             y="-608.68231"
+             x="117.73479 122.30034 126.8659">406</tspan>
         </text>
         <path
            inkscape:connector-curvature="0"
@@ -3971,16 +3972,16 @@
            d="m 167.89254,597.19689 c 0,0.50583 -0.41005,0.91588 -0.91588,0.91588 -0.50583,0 -0.91587,-0.41005 -0.91587,-0.91588 0,-0.50582 0.41004,-0.91587 0.91587,-0.91587 0.50583,0 0.91588,0.41005 0.91588,0.91587 z"
            transform="matrix(1.2,0,0,1.2,-60.375436,-109.74928)" />
         <text
-           y="-594.69305"
-           x="169.51747"
+           y="-608.68231"
+           x="139.84552"
            id="text4635"
-           style="font-variant:normal;font-weight:normal;font-size:7.77087307px;font-family:CMR12;-inkscape-font-specification:CMR12;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1.2,0,0,-1.2,-60.375436,-109.74928)">
+           style="font-variant:normal;font-weight:normal;font-size:9.32504749px;font-family:CMR12;-inkscape-font-specification:CMR12;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="scale(1,-1)">
           <tspan
              id="tspan4637"
              sodipodi:role="line"
-             y="-594.69305"
-             x="169.51747 173.32208 177.12671">405</tspan>
+             y="-608.68231"
+             x="139.84552 144.41106 148.97661">405</tspan>
         </text>
         <path
            inkscape:connector-curvature="0"
