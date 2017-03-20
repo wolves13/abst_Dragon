@@ -1135,9 +1135,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.43711186"
-     inkscape:cx="186.12505"
-     inkscape:cy="-558.80998"
+     inkscape:zoom="0.21855593"
+     inkscape:cx="-28.92288"
+     inkscape:cy="77.182834"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1996,7 +1996,9 @@
        inkscape:export-ydpi="90" />
     <g
        id="g17955"
-       transform="matrix(1,0,0.57735027,1,-1263.4932,-4.5754882)">
+       transform="matrix(1,0,0.57735027,1,-1263.4932,-4.5754882)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <use
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -2048,7 +2050,9 @@
            y="492.36221" /></flowRegion><flowPara
          id="flowPara11849" /></flowRoot>    <g
        id="g16790"
-       transform="matrix(1,0,0.57735027,1,-585.00011,-2.2877439)">
+       transform="matrix(1,0,0.57735027,1,-585.00011,-2.2877439)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -2092,7 +2096,9 @@
     </g>
     <g
        id="g16430"
-       transform="matrix(1,0,0.57735027,1,-666.03806,0)">
+       transform="matrix(1,0,0.57735027,1,-666.03806,0)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g16089">
         <g
