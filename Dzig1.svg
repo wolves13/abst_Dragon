@@ -27,7 +27,7 @@
      inkscape:window-height="1056"
      inkscape:window-width="2495"
      showgrid="true"
-     inkscape:current-layer="g16444"
+     inkscape:current-layer="g4917"
      inkscape:document-units="px"
      inkscape:cy="559.77636"
      inkscape:cx="332.79753"
@@ -55,6 +55,34 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker17081"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path17083"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker17071"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path17073"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
     <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
@@ -90,7 +118,8 @@
        refX="0.0"
        refY="0.0"
        orient="auto"
-       inkscape:stockid="Arrow1Lend">
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
       <path
          transform="scale(0.8) rotate(180) translate(12.5,0)"
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
@@ -104,7 +133,8 @@
        refX="0.0"
        refY="0.0"
        orient="auto"
-       inkscape:stockid="Arrow1Lend">
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
       <path
          transform="scale(0.8) rotate(180) translate(12.5,0)"
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
@@ -463,7 +493,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1344,7 +1374,7 @@
     <path
        inkscape:connector-curvature="0"
        id="use4756"
-       d="m 477.38738,576.91064 0,21.6"
+       d="m 475.38738,578.91064 0,21.6"
        style="fill:none;fill-rule:evenodd;stroke:#fa0000;stroke-width:0.72000003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4760)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2038,30 +2068,6 @@
   <g
      id="g17314"
      transform="translate(-2,-34)">
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.72000003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 559.66599,556.97566 -21.6,0"
-       id="use22956"
-       inkscape:connector-curvature="0"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:connector-curvature="0"
-       id="use22958"
-       d="m 559.66599,556.97566 -21.6,0"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.72000003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <use
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       x="0"
-       y="0"
-       xlink:href="#use22958"
-       id="use22960"
-       transform="translate(-208.33385,-1.7374624)"
-       width="100%"
-       height="100%" />
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -3331,5 +3337,19 @@
          id="tspan15712"
          x="361.39481"
          y="458.01212">f0</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.72000003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker17071)"
+       d="m 537.68572,518.66035 -21.6,0"
+       id="use17067"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:connector-curvature="0"
+       id="use17077"
+       d="m 324.60445,519.22379 -21.6,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.72000003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker17081)" />
   </g>
 </svg>
